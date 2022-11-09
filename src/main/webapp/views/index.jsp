@@ -9,6 +9,6 @@
 <body>
 <h1>${msg}</h1>
     <h2>You are at Safe Place</h2>
-    <h3>Please feel free to share your feedback</h3>
+    <h3>Please feel free to share your feedback..|||||</h3>
 </body>
 </html>
