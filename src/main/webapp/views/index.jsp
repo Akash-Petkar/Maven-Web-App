@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>${msg}</h1>
+    <h2>You are at Safe Place</h2>
 </body>
 </html>
